@@ -1,0 +1,26 @@
+{
+  "name": "pageCached",
+  "version": "1.0.0",
+  "description": "A module that calls a specific function, depending on whether the page is cached or not.",
+  "main": "src.js",
+  "scripts": {},
+  "files": [
+    "*.js",
+    "*.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitaly63/pageCached"
+  },
+  "author": "Vitaly Fomin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitaly63/pageCached/issues"
+  },
+  "homepage": "https://github.com/vitaly63/pageCached",
+  "devDependencies": {},
+  "dependencies": {
+    "arrTree": "git+https://github.com/vitaly63/arrTree.git",
+    "js-cookie": "^2.1.3"
+  }
+}
